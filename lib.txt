@@ -1,0 +1,1 @@
+comando para a importaçao da biblioteac na linguagem c: #include<>
